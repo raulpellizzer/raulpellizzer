@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**raulpellizzer/raulpellizzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hey, I'm Raul Pellizzer 👋                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                          
+Full-stack developer with a focus on building scalable systems and automating workflows.                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                          
+**Main Project:** Commerce Ecosystem — a suite of interconnected tools and services built around e-commerce operations.
+**My Portfolio:** raulpellizzer.com
+                                                                                                                                                                                                                                                                                        
+**Tech Stack:** C# · PHP · Automation                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                          
+Currently diving deeper into **AppSec and cybersecurity**, working toward a stronger offensive and defensive security foundation.                                                                                                                                                       
+                                                                                                                                                                                                                                                                                          
+Always building. Always learning.
